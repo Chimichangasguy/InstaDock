@@ -1,4 +1,4 @@
-# InstaDock - README
+# InstaDock
 
 ## Introduction
 
