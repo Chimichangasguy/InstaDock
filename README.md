@@ -16,7 +16,7 @@ Various standalone programs available in the **‘Tools’** menu of InstaDock g
 
 ---
 
-## How to Download and Install InstaDock
+## How to Download InstaDock
 
 You can download InstaDock from the following link:
 
